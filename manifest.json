@@ -1,42 +1,32 @@
 {
-  "short_name": "Tech News",
-  "name": "Lajme rreth teknologjisë",
+  "theme_color": "#f69435",
+  "background_color": "#f69435",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "CheckList and Forms",
+  "short_name": "Checklist",
+  "description": "Test",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "./images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "./images/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": "/pwa/",
-  "display": "standalone",
-  "theme_color": "#3367D6",
-  "background_color": "#ffffff",
-  "scope": "/pwa/",
-  "shortcuts": [
-    {
-      "name": "Kërko lajme",
-      "short_name": "Kërko",
-      "description": "Hyni ne pamjen e kerkimit te informacioneve",
-      "url": "/pwa/search",
-      "icons": [{ "src": "/pwa/logo192.png", "sizes": "192x192" }]
+      "src": "./images/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
     },
     {
-      "name": "Shiko postimet e ruajtura",
-      "short_name": "Të ruajtura",
-      "description": "Shiko postimet qe keni ruajtur gjate leximit",
-      "url": "/pwa/saved",
-      "icons": [{ "src": "/pwa/logo192.png", "sizes": "192x192" }]
+      "src": "./images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
