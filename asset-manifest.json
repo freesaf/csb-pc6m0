@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://freesaf.github.io/csb-pc6m0/static/css/main.6dee4e24.chunk.css",
-    "main.js": "https://freesaf.github.io/csb-pc6m0/static/js/main.0d286f08.chunk.js",
+    "main.js": "https://freesaf.github.io/csb-pc6m0/static/js/main.d52f1aaf.chunk.js",
     "runtime-main.js": "https://freesaf.github.io/csb-pc6m0/static/js/runtime-main.a071065e.js",
     "static/js/2.00cce2fc.chunk.js": "https://freesaf.github.io/csb-pc6m0/static/js/2.00cce2fc.chunk.js",
     "static/js/3.0b33b2e2.chunk.js": "https://freesaf.github.io/csb-pc6m0/static/js/3.0b33b2e2.chunk.js",
@@ -13,6 +13,6 @@
     "static/js/runtime-main.a071065e.js",
     "static/js/2.00cce2fc.chunk.js",
     "static/css/main.6dee4e24.chunk.css",
-    "static/js/main.0d286f08.chunk.js"
+    "static/js/main.d52f1aaf.chunk.js"
   ]
 }
